@@ -1,0 +1,59 @@
+body{
+    font-family: "Nanum Gothic", sans-serif;
+    font-size : 16px;
+    font-weight : 400;
+    line-height: 1.4;
+    color: #333;
+}
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: royalblue
+
+}
+header .inner{
+    background-color: orange;
+    width: 1100px;
+    height: 120px;
+    margin: 0 auto;
+    position: relative;
+}
+
+header. logo{
+    height: 75px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+header .sub-munu{
+    position: absolute;
+    top: 10px;
+    right: 0;
+    display: flex;
+}
+header .sub-munu ul.menu{
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+header .sub-munu ul.menu li{
+
+}
+header .sub-munu ul.menu li a{
+    padding: 11px 16px;
+    display: block;
+    font-size: 13px;
+    color: #656565;
+}
+header .sub-munu ul.search{
+
+}
+header .sub-munu ul.search input{
+
+}
+header .sub-munu ul.search .material-icons{
+
+}
